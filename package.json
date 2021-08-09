@@ -119,7 +119,7 @@
       "email": "patrick@bitpay.com"
     }
   ],
-  "name": "bitfrost-lib",
+  "name": "@simplio/bitfrost-lib",
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
